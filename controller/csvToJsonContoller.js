@@ -7,3 +7,7 @@ async function convertCsvToJSONController(req, res) {
 async function jsonUploadController(req, res) {
     return [];
  }
+
+ async function insertDataController(req, res) {
+    return [];
+ }
